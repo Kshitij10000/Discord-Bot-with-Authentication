@@ -1,4 +1,5 @@
-Discord Bot with Authentication
+**Discord Bot with Authentication**
+
 Description
 This Discord bot is designed to respond to a !hello command, requiring an authentication token. The authentication is implemented through a MySQL database, and the bot utilizes the Discord.py library for interaction with the Discord API.
 

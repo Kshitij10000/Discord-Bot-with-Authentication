@@ -1,7 +1,7 @@
 import mysql.connector
 import discord
 from discord.ext import commands
-
+# this bot is good , but you will ned to add some thing from your end
 intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
